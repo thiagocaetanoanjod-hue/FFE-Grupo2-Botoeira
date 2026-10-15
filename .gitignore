@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-spa
+.env
+.env.*
+!.env.example
+*.log
+.vercel
